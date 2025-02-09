@@ -27,29 +27,8 @@ npm run dev
 
 ### Also install tailwind
 
-# Tailwind CSS Installation Guide
-
-## Introduction
-Tailwind CSS is a utility-first CSS framework that allows you to build modern and responsive designs quickly.
-
-## Installation
-
-### 1. Install Tailwind via npm
-To install Tailwind CSS in your project, run the following command:
-
 ```sh
 npm install -D tailwindcss postcss autoprefixer
 ```
-
-### 2. Initialize Tailwind CSS
-Generate the Tailwind configuration file by running:
-
-```sh
-tailwindcss init -p
-```
-
-This will create two files:
-- `tailwind.config.js` (for customizing Tailwind)
-- `postcss.config.js` (for configuring PostCSS)
 
 ***rest part already done in the project***
