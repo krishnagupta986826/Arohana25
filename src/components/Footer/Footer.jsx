@@ -41,7 +41,7 @@ const Footer = () => {
       </div>
       <div className="max-w-7xl mx-auto mt-10">
         <p className="text-sm text-gray-400">
-          &copy; 2024 Hyperion&trade;. All rights reserved.
+          &copy; 2025 Hyperion&trade;. All rights reserved.
         </p>
       </div>
     </footer>
